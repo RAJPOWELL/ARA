@@ -1,0 +1,3 @@
+/home/raj/Temp/FaceApp/sdk/.cxx/Debug/554o3u6a/x86/CMakeFiles/opencv_jni_shared.dir
+/home/raj/Temp/FaceApp/sdk/.cxx/Debug/554o3u6a/x86/CMakeFiles/edit_cache.dir
+/home/raj/Temp/FaceApp/sdk/.cxx/Debug/554o3u6a/x86/CMakeFiles/rebuild_cache.dir
